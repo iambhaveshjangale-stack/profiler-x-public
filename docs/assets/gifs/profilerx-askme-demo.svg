@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="ProfilerX ask me demo placeholder">
+  <rect width="1280" height="720" fill="#020617" />
+  <rect x="90" y="50" width="1100" height="620" rx="28" fill="#0b1220" stroke="#1f2937" />
+  <rect x="130" y="92" width="240" height="18" rx="9" fill="#22d3ee" />
+  <rect x="130" y="134" width="720" height="14" rx="7" fill="#64748b" />
+  <rect x="130" y="174" width="680" height="64" rx="16" fill="#111827" stroke="#334155" />
+  <rect x="168" y="198" width="520" height="16" rx="8" fill="#e2e8f0" />
+  <rect x="130" y="262" width="820" height="128" rx="16" fill="#0f172a" stroke="#334155" />
+  <rect x="168" y="292" width="720" height="14" rx="7" fill="#94a3b8" />
+  <rect x="168" y="320" width="660" height="14" rx="7" fill="#94a3b8" />
+  <rect x="168" y="348" width="560" height="14" rx="7" fill="#94a3b8" />
+  <rect x="130" y="420" width="820" height="128" rx="16" fill="#0f172a" stroke="#334155" />
+  <rect x="168" y="450" width="700" height="14" rx="7" fill="#94a3b8" />
+  <rect x="168" y="478" width="640" height="14" rx="7" fill="#94a3b8" />
+  <rect x="168" y="506" width="420" height="14" rx="7" fill="#94a3b8" />
+  <rect x="1000" y="176" width="160" height="52" rx="16" fill="#06b6d4" />
+  <rect x="1000" y="262" width="160" height="286" rx="16" fill="#111827" stroke="#334155" />
+  <text x="130" y="634" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    ProfilerX Ask Me Demo Placeholder - replace with actual .gif recording
+  </text>
+</svg>
